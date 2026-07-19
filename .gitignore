@@ -1,0 +1,28 @@
+```
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Development artifacts
+.recommenders
+.vite/
+
+# Environment specific
+.env
+.env.local
+.env.*
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+
+```
